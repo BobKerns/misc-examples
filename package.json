@@ -9,6 +9,9 @@
   "author": "Bob Kerns, Hiromi Ono",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "stream-to-string": "^1.1.0",
+    "winston": "^2.2.0"
   }
 }
